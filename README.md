@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on my own website (Private repo)
-- 🌱 I’m currently learning Nodejs, React
+- 🌱 I’m currently learning Remix, Playwright
 - 📫 How to reach me: allamoolsson09@gmail.com
